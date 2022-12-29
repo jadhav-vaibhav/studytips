@@ -1,0 +1,100 @@
+.navul{
+    list-style:none;
+    display: inline-flex;
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+    color: gray;
+    
+}
+
+a:hover{
+    color: rgb(34, 34, 34);
+    
+    
+}
+input{
+    height: 33px;
+    position: relative;
+    bottom: 6px;
+    width: 279px;
+    border-radius: 20px;
+}
+input:hover{
+    box-shadow: 1px 2px 3px 3px gray;
+}
+
+.navli{
+    margin-left: 30px;
+}
+nav{
+    width: 50%;
+    margin-left: 50%;
+}
+header{
+    background-color: #EFF5F5;
+    /* margin-top: -8px; */
+}
+body{
+    margin:0px ;
+    background-color: #D6E4E5;
+
+}
+.confusedimg{
+    border: 2px ;
+    border-radius: 60px;
+}
+.logo{
+    height: 97px;
+    position: absolute;
+    left: 21px;
+    top: 2px;
+}
+.webname{
+    position: absolute;
+    font-size: 69px;
+    left: 8%;
+    top: 1%;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-family: 'Great Vibes', cursive;
+}
+.mainpart{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.heading{
+    font-family: 'Courgette', cursive;
+    font-size: 59px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.subheading{
+    font-family: 'Courgette', cursive;
+    font-size: 39px;
+    color: rgb(81, 79, 79);
+    margin-left: 8%;
+    margin-right: 5%;
+    margin-bottom: 0%;
+}
+.containandimg{
+    float: right;
+    width:66%;
+    font-family: 'Klee One', cursive;
+    font-size: 35px;
+    margin-top: 42px;
+}
+.contain{
+    font-family: 'Klee One', cursive;
+    font-size: 35px;
+    margin-top: 42px;
+}
+.contain_list{
+    margin-left: 197px;
+    list-style: lower-roman;
+    margin-right: 5%;
+}
+li{
+    margin-bottom: 1%;
+}
